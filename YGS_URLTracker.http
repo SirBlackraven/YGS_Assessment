@@ -1,0 +1,6 @@
+@YGS_URLTracker_HostAddress = http://localhost:5212
+
+GET {{YGS_URLTracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
